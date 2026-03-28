@@ -57,7 +57,7 @@ __Maximization of energy absorption involving fractures__
 
 ## Descriptions
 
-Six separate folders are archived in this repository: __diffusion__ contains the codes of score based diffusion models (training and sampling) and three numerical examples of designing the foam materails, __THERM__ contains the thermal analysis codes, __MECH__ contains the mechanical analysis codes, __experiment__ contains the load-displacement curves, __PF__ contains the phase-field simulation codes, and __foam__ contains the code for generating the foam microstructures. The codes are written in Python and PyTorch.
+Six separate folders are archived in this repository: __diffusion__ contains the codes of score based diffusion models (training and sampling) and three numerical examples of designing the foam materails, __THERM__ contains the thermal analysis codes, __MECH__ contains the mechanical analysis codes, __experiment__ contains the load-displacement curves, __PF__ contains the phase-field simulation codes, and __foam__ contains the code for generating the foam microstructures. The codes are written in Python.
 
 
 ## Citation
